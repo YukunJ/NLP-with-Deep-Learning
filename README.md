@@ -1,6 +1,6 @@
 # NLP-with-Deep-Learning
 
-This is the self-study repository for the Stanford open course <CS224n: NLP with Deep Learning>. 
+This is the self-study repository for the Stanford open course <CS224n: NLP with Deep Learning>, starting Spring 2021
 
 Content: 
 
