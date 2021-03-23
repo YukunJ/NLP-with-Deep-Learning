@@ -8,4 +8,4 @@ Content:
 
 2. Assignment code attempt.
 
-Feel free to contact me for any more information at yukunj@andrew.cmu.edu
+Feel free to contact me for any more information at yukun@cmu.edu
