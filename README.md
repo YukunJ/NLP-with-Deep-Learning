@@ -6,6 +6,6 @@ Content:
 
 1. Weekly hand-written notes, usually 2 lectures combined into 1 week note.
 
-2. Assignment code attempt.
+2. Assignment written/code attempt.
 
 Feel free to contact me for any more information at yukun@cmu.edu
