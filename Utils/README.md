@@ -18,4 +18,4 @@ Pytorch English version :
 
 Content:
 
-    1. Recurrent Neural Network Prototype (Vanilla, GRU, LSTM)
+    1. rnn_utils: Recurrent Neural Network Prototype (Vanilla, GRU, LSTM)
