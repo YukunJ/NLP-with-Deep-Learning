@@ -19,3 +19,4 @@ Pytorch English version :
 Content:
 
     1. rnn_utils.py : Recurrent Neural Network Prototype (Vanilla, GRU, LSTM)
+    2. optimizer.pdf : Principles of different available optimizers (Momentum, AdaGrad, RMSProp, AdaDelta, Adam)
