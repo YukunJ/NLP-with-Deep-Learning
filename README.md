@@ -8,10 +8,10 @@ Content:
 
 2. Assignment written/code attempt.
 
-		Assignment1 : Fun with Numpy and Word Vectors
-		Assignment2 : Word2Vec
-		Assignment3 : Dependency Parsing with Network
-		Assignment4 : Machine Translation with Recurrent Network
-		Assignment5 : Sub-word Modeling and Convulutional Networks
++ Assignment1 : Fun with Numpy and Word Vectors
++ Assignment2 : Word2Vec
++ Assignment3 : Dependency Parsing with Network
++ Assignment4 : Machine Translation with Recurrent Network
++ Assignment5 : Sub-word Modeling and Convulutional Networks
 
 Feel free to contact me for any more information at yukun@cmu.edu
