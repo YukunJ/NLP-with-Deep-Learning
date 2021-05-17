@@ -6,7 +6,9 @@ Content:
 
 1. Weekly hand-written notes, usually 2 lectures combined into 1 week note.
 
-2. Assignment written/code attempt.
+2. Slides
+
+3. Assignment written/code attempt.
 
 + Assignment1 : Fun with Numpy and Word Vectors
 + Assignment2 : Word2Vec
