@@ -16,4 +16,4 @@ Content:
 + Assignment4 : Machine Translation with Recurrent Network
 + Assignment5 : Sub-word Modeling and Convulutional Networks
 
-Feel free to contact me for any more information at yukun@cmu.edu
+Feel free to contact me for any more information at yukunj@cs.cmu.edu
